@@ -1,1 +1,2 @@
 # FullGonzoDevBlog
+This is the repository for the FullGonzoDevBlog. This is a blog that I will be using to document my journey as a developer. I will be posting about my projects, my learning experiences, and anything else that I think is worth sharing. I hope that this blog will be helpful to others who are also learning to code, and that it will be a good way for me to keep track of my progress.
